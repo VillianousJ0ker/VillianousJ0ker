@@ -1,8 +1,8 @@
 # VillianousJ0ker
 
-- 👀 I’m interested in game development & software engineering.
-- 🌱 I’m currently learning C++ & Lua.
-- 🛠️ I'm currently working on small, simple games using the Flixel Library for Haxe.
+- 👀 I’m interested in ***Game Development / Software Engineering***
+- 🌱 I’m currently interested in learning ***C++***
+- 🛠️ I'm currently working on ***Video Games using the [Haxe](https://github.com/HaxeFoundation/haxe) Language!***
 
 <!---
 VillianousJ0ker/VillianousJ0ker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
