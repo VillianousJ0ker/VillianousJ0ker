@@ -1,8 +1,8 @@
 # VillianousJ0ker
 
-- 👀 I’m interested in ***Game Development / Software Engineering***
-- 🌱 I’m currently interested in learning ***C++***
-- 🛠️ I'm currently working on ***Video Games using the [Haxe](https://github.com/HaxeFoundation/haxe) Language!***
+- 👀 I’m interested in ***Utility Applications / Software Engineering***
+- 🌱 I’m currently interested in ***OpenFL & Haxe Projects!***
+- 🛠️ I'm currently working on ***Simple Data Graphing Solutions (SDGS)***
 
 <!---
 VillianousJ0ker/VillianousJ0ker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
